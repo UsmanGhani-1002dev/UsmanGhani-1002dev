@@ -22,7 +22,6 @@
 ---
 
 <!-- About Me Terminal Block -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=UsmanGhani-1002dev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=10&include_all_commits=true&count_private=true" />
 
 ```bash
 ┌──[usman@dev ~]
@@ -43,8 +42,6 @@
   > Full-Stack PHP Development
   > Performance Optimization & SEO
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -91,14 +88,23 @@
 ## `> GitHub Analytics`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<!-- Row 1: Languages + Streak side by side -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8&hide_border=false" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<!-- Row 2: Full-width stats — hide contribs count to avoid the fetch error -->
+<img width="98%" src="https://github-readme-stats.vercel.app/api?username=UsmanGhani-1002dev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=10&hide=contribs&count_private=true&show=reviews,discussions_started,prs_merged" />
+
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Usman's%20Contribution%20Graph" />
+<!-- Activity Graph full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Usman's%20Contribution%20Graph&hide_border=false" />
 
 ---
 
