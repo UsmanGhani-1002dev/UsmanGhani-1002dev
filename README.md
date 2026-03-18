@@ -11,11 +11,11 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -48,46 +48,40 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`> Tech Stack`
+## ⚡ &nbsp;`> Tech Stack`
 
-<!-- CMS & Frameworks -->
 <div align="center">
 
-### ` CMS & Frameworks `
+### `CMS & Frameworks`
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0d1117)
 
-### ` Frontend `
+### `Frontend`
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0d1117)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d1117)
 
-### ` Database & Backend `
+### `Database & Backend`
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0d1117)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00ff41&labelColor=0d1117)
 ![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117)
 
-### ` WordPress Ecosystem `
+### `WordPress Ecosystem`
 ![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%23007CBA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-%23F97316?style=for-the-badge&logo=gravityforms&logoColor=white&labelColor=0d1117)
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117)
 ![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=0d1117&labelColor=0d1117)
 
-### ` Tools & DevOps `
+### `Tools & DevOps`
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d1117)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
 
 </div>
@@ -97,7 +91,7 @@
 ## `> GitHub Analytics`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
@@ -117,8 +111,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/UsmanGhani-1002dev/UsmanGhani-1002dev/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> ⚠️ **To activate the snake:** Go to your profile repo → **Actions** tab → Enable workflows → Add the [snake workflow](https://github.com/Platane/snk#readme) to `.github/workflows/snake.yml`
 
 ---
 
@@ -143,9 +135,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-UsmanGhani--1002dev-%2300ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/UsmanGhani-1002dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/UsmanGhani-1002dev)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%2300ff41?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Ghani-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/usman-ghani-web-developer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codely.quest-%2300ff41?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://codely.quest/usmanghani)
+[![Email](https://img.shields.io/badge/Email-usmanghaniuz1999-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:usmanghaniuz1999@gmail.com)
 
 </div>
 
