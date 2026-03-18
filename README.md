@@ -1,16 +1,159 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**UsmanGhani-1002dev/UsmanGhani-1002dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Matrix-style Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Usman%20Ghani&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=39ff14&animation=twinkling" />
 
-Here are some ideas to get you started:
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=_%20Building+fast%2C+secure+%26+user-friendly+websites;_%20Custom+WordPress+%26+Laravel+Solutions;_%20WooCommerce+%7C+Gravity+Forms+%7C+Custom+Plugins" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Profile Views & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=flat-square&labelColor=0d1117" />
+
+</div>
+
+---
+
+<!-- About Me Terminal Block -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=UsmanGhani-1002dev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=10&include_all_commits=true&count_private=true" />
+
+```bash
+┌──[usman@dev ~]
+└─$ whoami
+
+  Name     : Usman Ghani
+  Role     : WordPress & Laravel Developer
+  Location : 🌍 Remote / Worldwide
+  Focus    : Custom Plugins, WooCommerce,
+             Gravity Forms, Front-End Design
+  Status   : ✅ Available for Projects
+
+┌──[usman@dev ~]
+└─$ cat skills.txt
+
+  > Fast, Secure & User-Friendly Websites
+  > Advanced Custom Functionality
+  > Full-Stack PHP Development
+  > Performance Optimization & SEO
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`> Tech Stack`
+
+<!-- CMS & Frameworks -->
+<div align="center">
+
+### ` CMS & Frameworks `
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0d1117)
+
+### ` Frontend `
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0d1117)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d1117)
+
+### ` Database & Backend `
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0d1117)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00ff41&labelColor=0d1117)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117)
+
+### ` WordPress Ecosystem `
+![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%23007CBA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
+![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-%23F97316?style=for-the-badge&logo=gravityforms&logoColor=white&labelColor=0d1117)
+![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117)
+![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=0d1117&labelColor=0d1117)
+
+### ` Tools & DevOps `
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
+![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
+
+</div>
+
+---
+
+## `> GitHub Analytics`
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Usman's%20Contribution%20Graph" />
+
+---
+
+## `> Snake Eating My Contributions 🐍`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsmanGhani-1002dev/UsmanGhani-1002dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsmanGhani-1002dev/UsmanGhani-1002dev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UsmanGhani-1002dev/UsmanGhani-1002dev/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> ⚠️ **To activate the snake:** Go to your profile repo → **Actions** tab → Enable workflows → Add the [snake workflow](https://github.com/Platane/snk#readme) to `.github/workflows/snake.yml`
+
+---
+
+## `> What I Build`
+
+<div align="center">
+
+| 🔌 Custom WordPress Plugins | 🛒 WooCommerce Solutions | 📋 Gravity Forms |
+|:---:|:---:|:---:|
+| Custom post types, meta boxes, hooks & filters, REST API endpoints | Custom product types, checkout flows, payment gateways, subscriptions | Complex multi-step forms, conditional logic, custom addons & notifications |
+
+| ⚡ Performance | 🔒 Security | 🎨 Front-End |
+|:---:|:---:|:---:|
+| Core Web Vitals, lazy loading, caching, CDN setup | Hardening, malware removal, SSL, firewall rules | Pixel-perfect responsive UI from Figma designs |
+
+</div>
+
+---
+
+## `> Let's Connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-UsmanGhani--1002dev-%2300ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/UsmanGhani-1002dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/UsmanGhani-1002dev)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%2300ff41?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00ff41&fontAlignY=65&animation=twinkling" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=_%20Keep+building.+Keep+shipping.+Stay+curious." />
+</div>
