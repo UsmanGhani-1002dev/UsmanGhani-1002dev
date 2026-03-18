@@ -18,6 +18,9 @@
 
 ---
 
+<!-- Terminal + Streak side by side -->
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
 ```bash
 ┌──[usman@dev ~]
 └─$ whoami
@@ -37,6 +40,8 @@
   > Full-Stack PHP Development
   > Performance Optimization & SEO
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -84,9 +89,7 @@
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
-&nbsp;&nbsp;
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
 
 <br/><br/>
 
