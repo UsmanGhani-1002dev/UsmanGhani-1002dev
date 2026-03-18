@@ -49,31 +49,22 @@
 
 <div align="center">
 
-### `CMS & Frameworks`
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white&labelColor=0d1117)
-
-### `Frontend`
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
-
-### `Database & Backend`
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00ff41&labelColor=0d1117)
 ![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white&labelColor=0d1117)
-
-### `WordPress Ecosystem`
 ![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%23007CBA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117)
 ![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-%23F97316?style=for-the-badge&logo=gravityforms&logoColor=white&labelColor=0d1117)
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117)
 ![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=0d1117&labelColor=0d1117)
-
-### `Tools`
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
