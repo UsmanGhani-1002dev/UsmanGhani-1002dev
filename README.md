@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Matrix-style Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Usman%20Ghani&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=39ff14&animation=twinkling" />
 
-<!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=_%20Building+fast%2C+secure+%26+user-friendly+websites;_%20Custom+WordPress+%26+Laravel+Solutions;_%20WooCommerce+%7C+Gravity+Forms+%7C+Custom+Plugins" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
@@ -20,8 +17,6 @@
 </div>
 
 ---
-
-<!-- About Me Terminal Block -->
 
 ```bash
 ┌──[usman@dev ~]
@@ -45,7 +40,7 @@
 
 ---
 
-## ⚡ &nbsp;`> Tech Stack`
+## ⚡ `> Tech Stack`
 
 <div align="center">
 
@@ -73,7 +68,7 @@
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white&labelColor=0d1117)
 ![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=0d1117&labelColor=0d1117)
 
-### `Tools & DevOps`
+### `Tools`
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
@@ -89,22 +84,15 @@
 
 <div align="center">
 
-<!-- Row 1: Languages + Streak side by side -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8&hide_border=false" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanGhani-1002dev&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<!-- Row 2: Full-width stats — hide contribs count to avoid the fetch error -->
-<img width="98%" src="https://github-readme-stats.vercel.app/api?username=UsmanGhani-1002dev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&border_radius=10&hide=contribs&count_private=true&show=reviews,discussions_started,prs_merged" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Contribution%20Graph" />
 
 </div>
-
-<br/>
-
-<!-- Activity Graph full width -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Usman's%20Contribution%20Graph&hide_border=false" />
 
 ---
 
@@ -124,13 +112,13 @@
 
 <div align="center">
 
-| 🔌 Custom WordPress Plugins | 🛒 WooCommerce Solutions | 📋 Gravity Forms |
+| 🔌 Custom WordPress Plugins | 🛒 WooCommerce | 📋 Gravity Forms |
 |:---:|:---:|:---:|
-| Custom post types, meta boxes, hooks & filters, REST API endpoints | Custom product types, checkout flows, payment gateways, subscriptions | Complex multi-step forms, conditional logic, custom addons & notifications |
+| Post types, meta boxes, hooks & REST API | Checkout flows, payment gateways, subscriptions | Multi-step forms, conditional logic, custom addons |
 
 | ⚡ Performance | 🔒 Security | 🎨 Front-End |
 |:---:|:---:|:---:|
-| Core Web Vitals, lazy loading, caching, CDN setup | Hardening, malware removal, SSL, firewall rules | Pixel-perfect responsive UI from Figma designs |
+| Core Web Vitals, caching, CDN | Hardening, SSL, firewall rules | Pixel-perfect UI from Figma designs |
 
 </div>
 
@@ -149,7 +137,6 @@
 
 ---
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:008f11,100:00ff41&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00ff41&fontAlignY=65&animation=twinkling" />
 
 <div align="center">
