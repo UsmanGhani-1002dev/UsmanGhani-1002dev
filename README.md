@@ -7,13 +7,11 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117&labelTextColor=00ff41" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41&labelTextColor=00ff41" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41" />
 
 </div>
 
