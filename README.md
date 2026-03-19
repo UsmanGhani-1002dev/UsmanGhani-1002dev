@@ -4,12 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=_%20Building+fast%2C+secure+%26+user-friendly+websites;_%20Custom+WordPress+%26+Laravel+Solutions;_%20WooCommerce+%7C+Gravity+Forms+%7C+Custom+Plugins" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
-&nbsp;
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge" />
 
 </div>
