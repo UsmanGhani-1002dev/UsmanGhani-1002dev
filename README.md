@@ -2,16 +2,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Usman%20Ghani&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=39ff14&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=_%20Building+fast%2C+secure+%26+user-friendly+websites;_%20Custom+WordPress+%26+Laravel+Solutions;_%20WooCommerce+%7C+Gravity+Forms+%7C+Custom+Plugins" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=_%20Building+fast%2C+secure+%26+user-friendly+websites;_%20Custom+WordPress+%26+Laravel+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=008f11&style=for-the-badge&labelColor=0d1117" />
 
-<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=008f11&labelColor=0d1117&logo=github&logoColor=00ff41" />
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-008f11?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -62,7 +62,7 @@
 ![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%23007CBA?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-%23F97316?style=for-the-badge&logo=gravityforms&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white)
-![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=white)
+![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%23008f11?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -114,9 +114,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-UsmanGhani--1002dev-%2300ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/UsmanGhani-1002dev)
+[![GitHub](https://img.shields.io/badge/GitHub-UsmanGhani--1002dev-%23008f11?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/UsmanGhani-1002dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Ghani-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/usman-ghani-web-developer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-codely.quest-%2300ff41?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://codely.quest/usmanghani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codely.quest-%23008f11?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://codely.quest/usmanghani)
 [![Email](https://img.shields.io/badge/Email-usmanghaniuz1999-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:usmanghaniuz1999@gmail.com)
 
 </div>
