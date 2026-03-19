@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge" />
 
 </div>
 
@@ -55,16 +55,16 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00ff41&labelColor=0d1117)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 ![ACF](https://img.shields.io/badge/ACF-Advanced%20Custom%20Fields-%23007CBA?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-%23F97316?style=for-the-badge&logo=gravityforms&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white)
-![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=0d1117)
+![Custom Plugins](https://img.shields.io/badge/Custom%20Plugins-%2300ff41?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
