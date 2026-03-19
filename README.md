@@ -80,10 +80,6 @@
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanGhani-1002dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10&langs_count=8" />
-
-<br/><br/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=UsmanGhani-1002dev&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&border_color=00ff41&title_color=00ff41&custom_title=Contribution%20Graph" />
 
 </div>
