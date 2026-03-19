@@ -1,5 +1,3 @@
-<img width="1410" height="324" alt="image" src="https://github.com/user-attachments/assets/8092f0a7-f37a-46dc-9364-aad11f9c202c" /><div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:008f11,100:0d0208&height=200&section=header&text=Usman%20Ghani&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=WordPress%20%7C%20Laravel%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=39ff14&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
@@ -8,11 +6,11 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-81-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41&logoColor=00ff41" />
+<img src="https://komarev.com/ghpvc/?username=UsmanGhani-1002dev&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=00ff41" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/github/followers/UsmanGhani-1002dev?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=00ff41&logo=github&logoColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=00ff41" />
 
 </div>
 
