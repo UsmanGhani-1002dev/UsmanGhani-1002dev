@@ -37,7 +37,7 @@
   > Fast, Secure & User-Friendly Websites
   > Advanced Custom Functionality
   > Full-Stack PHP Development
-  > Performance Optimization & SEO
+  > Performance Optimization & Onsite SEO
 ```
 
 <br clear="right"/>
