@@ -27,9 +27,9 @@
   Name     : Usman Ghani
   Role     : WordPress & Laravel Developer
   Location : 🌍 Remote / Worldwide
-  Focus    : Custom Plugins, WooCommerce,
+  Focus    : Custom Plugins & Themes, WooCommerce,
              Gravity Forms, Front-End Design
-  Status   : ✅ Available for Projects
+  Status   : ✅ Available for Remote Projects
 
 ┌──[usman@dev ~]
 └─$ cat skills.txt
