@@ -28,7 +28,7 @@
   Role     : WordPress & Laravel Developer
   Location : 🌍 Remote / Worldwide
   Focus    : Custom Plugins & Themes, WooCommerce,
-             SAAS Websites, Gravity Forms, Front-End Design
+             SAAS Apps, Gravity Forms, Front-End Design
   Status   : ✅ Available for Remote Projects
 
 ┌──[usman@dev ~]
